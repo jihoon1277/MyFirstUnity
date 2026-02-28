@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\myfirstunity\\assets\\02.scripts\\firstscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\firstscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\myfirstunity\\assets\\02.scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\myfirstunity\\assets\\02.scripts\\mercedes-benz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\mercedes-benz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\myfirstunity\\assets\\02.scripts\\jihuny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihuny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\myfirstunity\\assets\\02.scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C661A442-2006-0694-D67A-4A334A11E90D}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FirstScript.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\FirstScript.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\FirstScript.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\FirstScript.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\FirstScript.cs",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAqwBgBAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:12:57.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "jihuny.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\jihuny.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\jihuny.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\jihuny.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\jihuny.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T03:44:37.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Mercedes-Benz.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Mercedes-Benz.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Mercedes-Benz.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Mercedes-Benz.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\Mercedes-Benz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAXAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Player.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T03:42:04.829Z",
+              "WhenOpened": "2026-02-28T04:36:21.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyFirstUnity\\Assets\\02.Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T04:31:59.564Z",
               "EditorCaption": ""
             }
           ]

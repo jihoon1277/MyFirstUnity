@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 public class FirstScript : MonoBehaviour
 {
     // ---------------- 유니티에서 많이 쓰는 데이터 타입 ---------------------
@@ -244,18 +246,18 @@ public class FirstScript : MonoBehaviour
     //    return sum;
     //}
 
-//    int[] myArray = new int[3];
+    //    int[] myArray = new int[3];
 
-//    int[] myArray2 = { 3, 6, 9 };
+    //    int[] myArray2 = { 3, 6, 9 };
 
-//    private void Start()
-//    {
-//        myArray[0] = 8;
-//        myArray[1] = 16;
-//        myArray[2] = 32;
+    //    private void Start()
+    //    {
+    //        myArray[0] = 8;
+    //        myArray[1] = 16;
+    //        myArray[2] = 32;
 
-//        Debug.Log(myArray[1]);
-//    }
+    //        Debug.Log(myArray[1]);
+    //    }
 
     //public List<int> myList = new List<int>();
 
@@ -266,20 +268,114 @@ public class FirstScript : MonoBehaviour
     //    Debug.Log(myList2[1]);
     //}
 
-    public List<int>myList = new List<int>();
+    //public List<int>myList = new List<int>();
 
-    private void Start()
-    {
-        myList.Add(5);
-        myList.Add(10);
+    //private void Start()
+    //{
+    //    myList.Add(5);
+    //    myList.Add(10);
 
-        myList.Insert(1,7);
+    //    myList.Insert(1,7);
 
-        myList.Add(15);
+    //    myList.Add(15);
 
-        myList.Remove(5);
-        myList.RemoveAt(1);
+    //    myList.Remove(5);
+    //    myList.RemoveAt(1);
+    //}
+
+    //값 형식 예제
+    //private void ()
+    //{
+    //    int a = 5;
+    //    int b = a;
+
+    //    b = 10;
+    //    Debug.Log(a);
+    //    Debug.Log(b);
+
+    //}
+
+    //참조 형식 예제
+    //public int[] myArray = { 1, 2 };
+    //public int[] myArray2;
+
+    //private void Start()
+    //{
+    //    myArray2 = myArray;
+
+    //    myArray2[1] = 7;
+
+    //    Debug.Log(myArray);
+    //    Debug.Log(myArray2);
+    //}
+
+    //int count = 0;
+
+    //// -- while 반복문 예제
+    //void Start()
+    //{
+    //    while (count < 10)
+    //    {
+    //        Debug.Log("미니언 소환");
+    //        count++;
+    //    }
+    //}
+
+    // -- for 반복문 예제
+
+    //private void Start()
+    //{
+    //    for (int i = 0; i < 10; i++)
+    //    {
+    //        Debug.Log("미니언 소환");
+    //    }
+    //}
+
+    // -- foreach 반복문 예제
+    //List<string> names = new List<string>() { "Alice", "Bob", "Charile" };
 
 
-    }
+    //void Start()
+    //{
+    //    foreach (string name in names)
+    //    {
+    //        Debug.Log(name);
+    //    }
+    //}
+
+    //public List<int> myList2 = new List<int>() { 4, 6, 9, 12, 16, 20, 25, 44 };
+
+    //void Start()
+    //{
+    //    for (int i = 0; i < myList2.Count; i++)
+    //    {
+    //        Debug.Log(myList2[i]);
+    //    }
+
+    //    foreach (int i in myList2)
+    //    { 
+    //          Debug.Log(i);
+    //    }
+    //}
+
+    ////------------------- 프로퍼티 예제 ----------------------------
+    //void Start()
+    //{
+    //    Player Player = new Player {Score = 10, bonus = 5};
+    //    Debug.Log("보너스 점수"+Player.TotalScore);
+    //}
+
+    //---------------자동 구현된 프로퍼티 예제 ------------------  
+    //void Start()
+    //{
+    //    Player Player = new Player();
+    //    Player.Health = 150;
+    //    Debug.Log(Player.Health);
+    //}
+
+    //void Start()
+    //{
+    //    Player Player = new Player { attack = 10, addAttack = 5 };
+    //    Debug.Log( Player.criticalAttack);
+    //}
 }

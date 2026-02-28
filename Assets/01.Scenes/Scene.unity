@@ -225,8 +225,8 @@ GameObject:
   - component: {fileID: 721064058}
   - component: {fileID: 721064057}
   - component: {fileID: 721064056}
-  - component: {fileID: 721064059}
   - component: {fileID: 721064055}
+  - component: {fileID: 721064059}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -329,10 +329,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 721064053}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bca668cdfe7307946937ff20b122b9e1, type: 3}
+  m_Script: {fileID: 11500000, guid: 7700a7a1b2f889040b8e720d04d4ddf2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myList: 
 --- !u!1 &1533311618
 GameObject:
   m_ObjectHideFlags: 0

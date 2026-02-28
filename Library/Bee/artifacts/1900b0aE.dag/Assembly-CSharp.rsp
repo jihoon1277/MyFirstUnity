@@ -362,6 +362,8 @@
 "Assets/02.Scripts/Human.cs"
 "Assets/02.Scripts/jihuny.cs"
 "Assets/02.Scripts/Mercedes-Benz.cs"
+"Assets/02.Scripts/Player.cs"
+"Assets/02.Scripts/Weapon.cs"
 -langversion:9.0
 /deterministic
 /optimize+
