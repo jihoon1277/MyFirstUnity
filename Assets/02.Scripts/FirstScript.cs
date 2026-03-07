@@ -1,8 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
+
 public class FirstScript : MonoBehaviour
 {
     // ---------------- 유니티에서 많이 쓰는 데이터 타입 ---------------------
@@ -378,4 +377,25 @@ public class FirstScript : MonoBehaviour
     //    Player Player = new Player { attack = 10, addAttack = 5 };
     //    Debug.Log( Player.criticalAttack);
     //}
+
+
+    //private void Start()
+    //{
+    //    Animal myDog = new Dog();
+    //    Animal myCat = new Cat();
+
+    //    myDog.Speak();
+    //    myCat.Speak();
+
+    //    Enemy myEnemy = new Teacher();
+
+    //    myEnemy.Die();
+
+    //    Weapon myWeapon = new plasticbottle();
+
+    //    myWeapon.Attack();
+    //}
+
+   
+
 }

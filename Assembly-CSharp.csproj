@@ -60,10 +60,20 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.44f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\02.Scripts\Enemy Controller.cs" />
     <Compile Include="Assets\02.Scripts\Player.cs" />
     <Compile Include="Assets\02.Scripts\Mercedes-Benz.cs" />
     <Compile Include="Assets\02.Scripts\Car.cs" />
+    <Compile Include="Assets\02.Scripts\Teacher.cs" />
+    <Compile Include="Assets\02.Scripts\Dog.cs" />
     <Compile Include="Assets\02.Scripts\Human.cs" />
+    <Compile Include="Assets\02.Scripts\Dic_Test.cs" />
+    <Compile Include="Assets\02.Scripts\DelegateExample.cs" />
+    <Compile Include="Assets\02.Scripts\PlayerController.cs" />
+    <Compile Include="Assets\02.Scripts\Animal.cs" />
+    <Compile Include="Assets\02.Scripts\Cat.cs" />
+    <Compile Include="Assets\02.Scripts\Enmy.cs" />
+    <Compile Include="Assets\02.Scripts\plasticbottle.cs" />
     <Compile Include="Assets\02.Scripts\Weapon.cs" />
     <Compile Include="Assets\02.Scripts\FirstScript.cs" />
     <Compile Include="Assets\02.Scripts\jihuny.cs" />

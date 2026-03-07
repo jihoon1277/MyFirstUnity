@@ -39,20 +39,20 @@ public class Player: MonoBehaviour
 //        Debug.Log("Player initalized with health:" + health + "and score:" + score);
 //    }
 
-    public Weapon weapon;
+    //public Weapon weapon;
 
-    public Player()
-    {
-        weapon = new Weapon();
-    }
+    //public Player()
+    //{
+    //    weapon = new Weapon();
+    //}
 
-    public Player(string weaponName, int weaponDamage)
-    {
-        weapon = new Weapon(weaponName, weaponDamage);
-    }
+    //public Player(string weaponName, int weaponDamage)
+    //{
+    //    weapon = new Weapon(weaponName, weaponDamage);
+    //}
 
-    void Start()
-    {
-        Debug.Log("Player's weapon: " + weapon.name + "  damage: " + weapon.damage);
-    }
+    //void Start()
+    //{
+    //    Debug.Log("Player's weapon: " + weapon.name + "  damage: " + weapon.damage);
+    //}
 }
